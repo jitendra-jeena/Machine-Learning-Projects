@@ -30,13 +30,12 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
  
 	|
 	|--Machiene Learning Projects------------
-											|						
-											|---- SMS Spam Detector----------                                            
-																			|			
-																			|----data-----SMSSpamCollection  
-																			|
-																			|----necessary.py
-																			|
-																			|----sms_spam_detector.py
-																			|
-																			|----Readme
+						|						
+						|---- SMS Spam Detector----------                                            													|			
+										|----data-----SMSSpamCollection  
+										|
+										|----necessary.py
+										|
+										|----sms_spam_detector.py
+										|
+										|----Readme
